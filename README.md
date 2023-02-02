@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React-Native.
 - 👯 I’m looking to collaborate on Freelancing.
 - 💬 Ask me about python Or Any Designing Related Stuff.
-- 📫 How to reach me: [Instragram - @IamGroot](https://www.instagram.com/i__am__groot____/)                            
+- 📫 How to reach me: [Linkedin- @Anand Gundagalla](https://www.linkedin.com/in/anand-gundagalla-7b78451b4/)                            
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: There may be no excuse for laziness, but I’m still looking👀.
 
