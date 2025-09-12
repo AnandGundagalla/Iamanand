@@ -3,11 +3,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning React-Native.
+- 🌱 I’m currently learning AI/ ML and AGentic AI.
 - 👯 I’m looking to collaborate on Freelancing.
 - 💬 Ask me about python Or Any Designing Related Stuff.
 - 📫 How to reach me: [Linkedin- @Anand Gundagalla](https://www.linkedin.com/in/anand-gundagalla-7b78451b4/)                            
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: He/HiM.
 - ⚡ Fun fact: There may be no excuse for laziness, but I’m still looking👀.
 
 ### Spotify Playing 🎧
